@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+## Want to start with this proyect? 
+
+-Clone or download this repository
+-Install the npm packages with 'npm install' and dotenv with 'npm install dotenv'
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
